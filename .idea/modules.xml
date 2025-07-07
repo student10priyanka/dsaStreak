@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/dsaStreak.iml" filepath="$PROJECT_DIR$/dsaStreak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/hashing.iml" filepath="$PROJECT_DIR$/hashing/hashing.iml" />
     </modules>
   </component>
 </project>
