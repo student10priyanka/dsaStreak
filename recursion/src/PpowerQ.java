@@ -7,6 +7,7 @@ public class PpowerQ {
         }
         return pow(p,q-1)*p;
     }
+
     static int poww(int p,int q){
         if(q==0) return 1;
         int smallPow=poww(p,q/2);
